@@ -16,7 +16,7 @@ function App() {
   return (
     <div>
 
-      {/* <Router history={history}>user */}
+      {/* <Router history={history}> */}
       <Router basename="/user">
         <Routes>
 
